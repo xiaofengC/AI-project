@@ -1,0 +1,18 @@
+How to run:
+
+1. Install Xcode 4 or latter version.
+on http://developer.apple.com/xcode/
+2. Install the cocos2d 1.0.1 or latter version.
+on http://www.cocos2d-iphone.org/download
+3. Open the othello.xcodeproj set basic sdk to 3.0 or latter and simulator to ipad or iphone to compile it .
+
+ Note that It will only run in MAC OS!
+
+
+
+File list:
+
+build contains the build information for this project
+othello contains the source codes and images for the project
+othello.xcodeproj is project file
+
